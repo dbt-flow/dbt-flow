@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/dbt-flow">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2500&pause=1500&color=AAAAAA&center=true&vCenter=true&random=false&width=1200&height=100&lines=Full+-+Stack+Developer;AI+Solutions+Architect;Innovating+Healthcare+with+Technology;Web+/+Logo+Designer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2500&pause=1500&color=AAAAAA&center=true&vCenter=true&random=false&width=1200&height=100&lines=Data+-+Engineer;AI+Solutions+Architect;Innovating+Healthcare+with+Technology;">
   </a>
 </p>
 
