@@ -5,13 +5,12 @@
 </p>
 
 
-<div align="center">
-  <img src="https://amateur0911.vercel.app/api?username=dbt-flow&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=nightowl" height="150" alt="dbt-flow Github Stats">
-  <img src="https://amateur0911.vercel.app/api/top-langs/?username=dbt-flow&layout=compact&show_icons=true&line_height=30&theme=nightowl" height="150" alt="dbt-flow Top Languages"/>
+<!-- <div align="center"> -->
+  <!-- <img src="https://amateur0911.vercel.app/api?username=dbt-flow&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=nightowl" height="150" alt="dbt-flow Github Stats"> -->
+  <!-- <img src="https://amateur0911.vercel.app/api/top-langs/?username=dbt-flow&layout=compact&show_icons=true&line_height=30&theme=nightowl" height="150" alt="dbt-flow Top Languages"/> -->
 
-<div>
-   
-  <img 
+<div align="center">
+  <img
   src="https://amateur0913.vercel.app/api/cards/repos-per-language?username=dbt-flow&theme=nightowl&include_all_commits=true&show_icons=true&line_height=30&count_private=true" 
   height="150" 
   alt="dbt-flow's Repos Per Language" 
@@ -27,10 +26,10 @@
   style="border: 2px solid #AAAAAA; border-radius: 8px;"/>
  </div>
 
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dbt-flow&show_icons=true&line_height=30&include_all_commits=true&count_private=true&radius=8&theme=nightowl" height="300" alt="dbt-flow activity-graph" />
 
 
-</div>
 
 <!--###
 <h3 align="left">Languages and Tools:</h3>
